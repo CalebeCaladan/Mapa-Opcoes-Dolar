@@ -1,8 +1,11 @@
 ## Mapa de Opções Dólar Comercial
 
-You can use the [editor on GitHub](https://github.com/CalebeCaladan/Mapa-Opcoes-Dolar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esse projeto facilita a visualização das informações extraídas no site da B3.
+Na hora de fazer um pré-market, é interessante analisarmos as posições de opções abertas.
+ 
+O problema é que isso é um tanto repetitivo e pode gerar alguns erros, portanto, decidi criar um pequeno projeto que pega as informações do site da B3, forma um gráfico das posições e depois é armazenado num arquivo do Excel.
+ 
+Vamo lá:
 
 ### Markdown
 
