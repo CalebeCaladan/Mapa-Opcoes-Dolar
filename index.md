@@ -9,7 +9,7 @@ Vamo lá:
 
 ### Pegando os codigos das opções
 
-[Image](Capture-2.png)
+![Image](Capture-2.png)
 
 
 ```markdown
