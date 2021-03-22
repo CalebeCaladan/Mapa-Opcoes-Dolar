@@ -7,9 +7,9 @@ O problema é que isso é um tanto repetitivo e pode gerar alguns erros, portant
  
 Vamo lá:
 
-### Markdown
+### Pegando os codigos das opções
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
