@@ -24,4 +24,4 @@ Vamo lá:
 
 ### Criando e populando planilha no Excel
 
-![Image](Capturar.png)
+![Image](Capturar.PNG)
